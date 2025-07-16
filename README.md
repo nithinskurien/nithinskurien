@@ -1,5 +1,5 @@
 ## Hi, I’m Nithin Syriac Kurien 👋
-A <b>Full‑Stack Engineer</b> who leans towards <b>backend development</b> 🛠️. I build robust <b>Web & App solutions</b>, but also dive into lower-level systems when the challenge calls for it. I don’t approach solving technical challenges through a language or tool first mindset. I focus on delivering the right solution using the best-fit tech for the situation and cicumstances🚀.
+A <b>Full‑Stack Engineer</b> who leans towards <b>backend development</b> 🛠️. I build robust <b>Web & App solutions</b>, but also dive into lower-level systems when the challenge calls for it. I don’t approach solving technical challenges through a language or tool first mindset. I focus on delivering the right solution using the best-fit tech for the situation and cicumstances 🚀.
 <!--
 **nithinskurien/nithinskurien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
